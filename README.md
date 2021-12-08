@@ -3,11 +3,11 @@
 
 Basil is passionate about interesting problems in Computer Science and Engineering. He reads on various topics besides CS and believes in first principle thinking. His [blog](https://basil08.github.io) is his passion project.
 
-At [Catoverse](https://cato.tv), he is experimenting with alternatives to traditional pedagogical methods. 
+Basil is an undergrad student at IIT Delhi.
+
+Volunteered at [Catoverse](https://cato.tv) to explore alternative pedagogical methods. 
 
 An open source enthusiast, he contributes routinely in FOSS festivals besides having written most of his own software under an open license.  
-
-Basil is an undergrad student at IIT Delhi.  
 
 ## 👨‍💻 Currently learning
 
@@ -18,16 +18,16 @@ Basil is an undergrad student at IIT Delhi.
 
 ## 👀 Looking for 
 
-- full stack gigs
-- ethereum and/or polygon development
-- mature projects with interesting open issues
-- consultancy services for small to medium scale projects
+- Full stack gigs
+- Ethereum and/or polygon development
+- Mature projects with interesting open issues
+- Consultancy services for small to medium scale projects
 
 ## Knows / Experience 
 
 ### 🕸️ Web Dev
 
-- frontend: React, bootstrap, bulma. Experienced in NextJS. No CSS/SCSS/SAAS. 
+- frontend: React, bootstrap, bulma. Experienced in NextJS.
 - backend: NodeJS, Flask
 - database: MongoDB, MySQL, Postgres.
 - devOps: experienced in AWS. Learning kubernetes and firebase. 
