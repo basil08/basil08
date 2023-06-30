@@ -1,44 +1,20 @@
 
-[![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=basil08&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Thinker and communicator with a passion for **building solutions**. I enjoy taking positions of **high accountability** and executing them with sincerity.
 
-Basil is passionate about interesting problems in Computer Science. He reads on various topics besides CS and believes in first principle thinking. His [blog](https://basil08.github.io) is his passion project.
+With an inherent inclination towards management and leadership, I leverage my communication and empathic skills to build and foster teams that deliver solutions and not just products.
 
-Basil is an undergrad student at IIT Delhi.
+Currently, I am an independent ML safety researcher looking for a research opportunity.
 
-Volunteered at [Catoverse](https://cato.tv) to explore alternative pedagogical methods. Interned at FischerJordan LLC. and Goonj Org. 
+## Skills 
 
-An open source enthusiast, he contributes routinely in FOSS festivals besides having written most of his own software under an open license.  
-
-## 👨‍💻 Currently learning
-
-- Advanced C and C++. 
-- Ethereum (Solidity) and Polygon. 
-- Statistics  
-
-## 👀 Looking for 
-
-- Full stack gigs
-- Ethereum and/or polygon development
-- Mature projects with interesting open issues
-- Consultancy services for small to medium scale projects
-
-## Knows / Experience 
-
-### 🕸️ Web Dev
-
-- frontend: React, bootstrap, bulma. Experienced in NextJS.
-- backend: NodeJS, Django, Flask
-- database: MongoDB, MySQL, Postgres.
-- devOps: experienced in AWS. Learning kubernetes and firebase. 
-
-## 😃 AMA  
-
-Python and Javascript/TS. And, linux history :)  
+1. ML: PyTorch, TensorFlow, Scikit-Learn, numpy, scipy
+2. Full stack development in MERN and Django. Mobile Dev - Flutter. DevOps - AWS and GCP. UI/UX - Figma
 
 ## 📫 Reach me 
 
 Twitter acc: [itbwtsh](https://twitter.com/itbwtsh)    
 Email: [mail here](mailto:gs454236@gmail.com)
+Linkedin: [Basil Labib](https://www.linkedin.com/in/basil-labib-9916901ba/)
 
 
 <!--
