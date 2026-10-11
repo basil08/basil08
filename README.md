@@ -3,7 +3,7 @@ Thinker and communicator with a passion for **building solutions**. I enjoy taki
 
 With an inherent inclination towards management and leadership, I leverage my communication and empathic skills to build and foster teams that deliver solutions and not just products.
 
-Currently, I am an independent ML safety researcher looking for a research opportunity.
+Currently, I ama founding engineer and MTS at Secure AI Futures Lab.
 
 ## Skills 
 
@@ -15,6 +15,8 @@ Currently, I am an independent ML safety researcher looking for a research oppor
 Twitter acc: [itbwtsh](https://twitter.com/itbwtsh)    
 Email: [mail here](mailto:gs454236@gmail.com)
 Linkedin: [Basil Labib](https://www.linkedin.com/in/basil-labib-9916901ba/)
+
+[Website](https://basil08.github.io) 
 
 
 <!--
